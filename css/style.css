@@ -184,7 +184,7 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: yellow;
+  color:#FFCC00;
 }
 
 /* mouse over link */
@@ -194,5 +194,5 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: yellow;
+  color: white;
 }
