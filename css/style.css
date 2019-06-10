@@ -189,10 +189,10 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: #FFCC00;
 }
 
 /* selected link */
 a:active {
-  color: white;
+  color: hotpink;
 }
