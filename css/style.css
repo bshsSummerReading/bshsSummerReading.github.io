@@ -177,3 +177,22 @@ footer{
 	background-color:#FFCC00;
 	text-align: center;
 }
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: yellow;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+}
