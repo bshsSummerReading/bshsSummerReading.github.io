@@ -92,8 +92,14 @@ header .highlight, header .current a {
 }
 
 header a:hover{
-	color:#CCCCCC;
-	font-weught:bold;
+	color:##FFCC00;
+	font-weight:bold;
+}
+
+/* selected link */
+header a:active {
+  color:#FF00CB;
+	font-weight:bold;
 }
 /* Showcase */
 #showcase{
@@ -187,12 +193,5 @@ a:visited {
   color: white;
 }
 
-/* mouse over link */
-a:hover {
-  color:#FFCC00;
-}
 
-/* selected link */
-a:active {
-  color:#FF00CB;
-}
+
