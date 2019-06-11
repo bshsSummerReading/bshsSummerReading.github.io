@@ -189,11 +189,6 @@ header a:visited {
 	font-size:95px;
 	margin-bottom:10px;
 }
-#showcase h3{
-	margin-top:50px;
-	font-size:150px;
-	margin-bottom:10px;
-}
 
 #showcase h2{
 	font-size:20px;
@@ -219,6 +214,11 @@ header a:visited {
 	float:right;
 	margin-top:15px;
 	
+}
+#newsletter h3{
+	margin-top:50px;
+	font-size:150px;
+	margin-bottom:10px;
 }
 #newsletter input[type="email"]{
 	padding:4px;
