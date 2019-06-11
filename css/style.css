@@ -6,6 +6,25 @@ body{
 	background-color: #0b6623;
 }
 
+body a:hover{
+	color:#FFFFFF;
+	font-weight:bold;
+}
+
+/* selected link */
+body a:active {
+  color:#FF00CB;
+	font-weight:bold;
+}
+/* unvisited link */
+body a:link {
+  color: white;
+}
+
+/* visited link */
+body a:visited {
+  color: white;
+}
 /* Global */
 .container{
 	width:80%;
