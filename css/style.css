@@ -91,6 +91,22 @@ body a:visited {
 .dark a:active {
   color:#FF00CB;
 }
+.lightYellow a:link {
+  color: #0b6623;
+}
+
+
+.lightYellow a:visited {
+  color:#0b6623;
+}
+
+.lightYellow a:hover {
+	color:#FFFFFF;
+}
+
+.lightYellow a:active {
+  color:#FF00CB;
+}
 
 /* Header **/
 header {
@@ -163,7 +179,7 @@ header a:visited {
 
 #showcase h1{
 	margin-top:100px;
-	font-size:55px;
+	font-size:85px;
 	margin-bottom:10px;
 }
 #showcase h2{
