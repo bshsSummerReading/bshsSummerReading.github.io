@@ -54,6 +54,13 @@ body a:visited {
 	margin-top:10px;
 	margin-botton:10px;
 }
+.lightGreen{
+	padding:15px;
+	background:##79d491;
+	color:#000000;
+	margin-top:10px;
+	margin-botton:10px;
+}
 .teal{
 	padding:15px;
 	background:#008081;
