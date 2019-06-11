@@ -76,13 +76,22 @@ body a:visited {
 	margin-botton:10px;
 }
 .dark a:link {
-  color: #555555;
+  color: #0b6623;
 }
 
 
 .dark a:visited {
-  color:#555555;
+  color:#0b6623;
 }
+
+.dark a:hover {
+	color:#FFFFFF;
+}
+
+.dark a:active {
+  color:#FF00CB;
+}
+
 /* Header **/
 header {
 	
