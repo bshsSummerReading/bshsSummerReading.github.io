@@ -189,10 +189,10 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  color: #FFCC00;
+  color:#FFCC00;
 }
 
 /* selected link */
 a:active {
-  color:#ff00cb;
+  color:#FF00CB;
 }
