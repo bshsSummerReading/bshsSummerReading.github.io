@@ -162,10 +162,6 @@ header a:hover{
 	font-weight:bold;
 }
 
-header a:active {
-  color:#FF00CB;
-	font-weight:bold;
-}
 
 header a:link {
   color: white;
