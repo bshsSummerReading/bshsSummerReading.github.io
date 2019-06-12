@@ -266,7 +266,9 @@ header a:active{
 
 /* boxes*/
 
-
+#boxes {
+	margin-top:20px;
+}
 
 #boxes .box{
 	float:left;
