@@ -157,13 +157,13 @@ header .highlight, header .current a {
 	font-weight:bold;
 }
 
-/* header a:hover{
+header a:hover{
 	color:#FFFFFF;
 	font-weight:bold;
 }
 
 
-header a:link {
+/*header a:link {
   color: white;
 }
 
