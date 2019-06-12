@@ -152,12 +152,12 @@ header nav{
 	margin-top:10px;
 }
 
-header .current a {
+header .highlight, header .current a {
 	color:#FFCC00;
 	font-weight:bold;
 }
 
-header a:hover{
+/* header a:hover{
 	color:#FFFFFF;
 	font-weight:bold;
 }
@@ -170,7 +170,7 @@ header a:link {
 
 header a:visited {
   color: white;
-}
+} */
 
 /* Showcase */
 #showcase{
