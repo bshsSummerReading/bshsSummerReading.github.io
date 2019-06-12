@@ -215,6 +215,7 @@ header a:active{
 /* Showcase */
 #showcase{
 	min-height:300px;
+	margin-left: 30px;
 	position: relative;
 	background:url('../images/BSHSbackgrounf.png') no-repeat;
 	background-position: center left;
