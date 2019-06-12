@@ -122,12 +122,28 @@ body a:visited {
   color:#FF00CB;
 }
 
+.lightYellowSm a:link {
+  color: #0b6623;
+}
+
+.lightYellowSm a:visited {
+  color:#0b6623;
+}
+
+.lightYellowSm a:hover {
+	color:#FFFFFF;
+}
+
+.lightYellowSm a:active {
+  color:#FF00CB;
+}
+
 .whiteBox a:link {
-  color: #000000;
+  color: #0b6623
 }
 
 .whiteBox a:visted {
-  color: #000000;
+  color: #0b6623;
 }
 
 .whiteBox a:active {
