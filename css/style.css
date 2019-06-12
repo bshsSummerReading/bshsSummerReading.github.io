@@ -1,6 +1,6 @@
 @charset "utf-8";
 body{
-	font:18px/1.5 Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font:18px/1.5 "Baskerville", "Palatino Linotype", "Palatino", "Century Schoolbook L", "Times New Roman", "serif";
 	padding:0;
   	margin:0;
 	background-color: #0b6623;
@@ -282,13 +282,14 @@ header a:active{
 
 #boxes .box{
 	float:left;
-	text-align: center;
+	text-align: left;
 	width:30%;
 	padding:10px;
 }
 
 #boxes .box img{
 	width:90px;
+	float:center;
 }
 /* Sidebar */
 aside#sidebar{
