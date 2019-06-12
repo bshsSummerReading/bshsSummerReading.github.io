@@ -281,8 +281,8 @@ header a:active{
 }
 
 #boxes .box{
-	float:left;
-	text-alighn: center;
+	float:center;
+	text-align: center;
 	width:30%;
 	padding:10px;
 }
