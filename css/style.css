@@ -217,8 +217,7 @@ header a:active{
 	height:300px;
 	position: relative;
 	background:url('../images/BSHSbackgrounf.png') no-repeat;
-	background-horizontal-position: 30px;
-	background-vertical-position: center;
+	background-position: center left;
 	text-align:center;
 	color:#ffffff;
 	
