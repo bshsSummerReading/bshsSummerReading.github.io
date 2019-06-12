@@ -163,14 +163,10 @@ header a:hover{
 }
 
 
-/*header a:link {
-  color: white;
+header a:active{
+	color:#ff23d3
+	font-weight:bold;
 }
-
-
-header a:visited {
-  color: white;
-} */
 
 /* Showcase */
 #showcase{
