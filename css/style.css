@@ -276,7 +276,10 @@ aside#sidebar{
 	width:30%;
 	margin-top:10px;
 }
-
+#sidebar h3{
+	margin-top:10px;
+	font-size:35px;
+	margin-bottom:10px;
 /*Main-col*/
 article#main-col{
 	float:left;
