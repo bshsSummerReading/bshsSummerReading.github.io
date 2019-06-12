@@ -282,14 +282,13 @@ header a:active{
 
 #boxes .box{
 	float:left;
-	text-align: left;
+	text-align: center;
 	width:30%;
 	padding:10px;
 }
 
 #boxes .box img{
 	width:90px;
-	float:center;
 }
 /* Sidebar */
 aside#sidebar{
