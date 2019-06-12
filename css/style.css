@@ -75,7 +75,7 @@ body a:visited {
 	margin-top:10px;
 	margin-botton:10px;
 }
-.lightYellow2{
+.lightYellowSm{
 	padding:15px;
 	background:#ffe88c;
 	color:#000000;
@@ -122,15 +122,15 @@ body a:visited {
   color:#FF00CB;
 }
 
-.lightYellow2 a:link {
+.whiteBox a:link {
   color: #000000;
 }
 
-.lightYellow2 a:visted {
+.whiteBox a:visted {
   color: #000000;
 }
 
-.lightYellow2 a:active {
+.whiteBox a:active {
 color: #FF00CB
 }
 
