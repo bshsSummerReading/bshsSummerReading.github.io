@@ -150,6 +150,12 @@ body a:visited {
 color: #FF00CB
 }
 
+h3{
+	margin-top:10px;
+	font-size:35px;
+	margin-bottom:10px;
+}
+
 /* Header **/
 header {
 	
@@ -276,10 +282,7 @@ aside#sidebar{
 	width:30%;
 	margin-top:10px;
 }
-aside#sidebar h3{
-	margin-top:10px;
-	font-size:35px;
-	margin-bottom:10px;
+
 /*Main-col*/
 article#main-col{
 	float:left;
