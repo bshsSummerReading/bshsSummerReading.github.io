@@ -12,7 +12,7 @@ body a:hover{
 }
 
 body a:active {
-  color:#ff23d3;
+  color:#FF00CB;
 	font-weight:bold;
 }
 
@@ -157,15 +157,14 @@ header .highlight, header .current a {
 	font-weight:bold;
 }
 
-/* header a:hover{
+header a:hover{
 	color:#FFFFFF;
 	font-weight:bold;
-}*/
+}
 
 
 header a:active{
-	color:#ff23d3
-	font-weight:bold;
+	color:#FF00CB
 }
 
 /* Showcase */
