@@ -75,6 +75,13 @@ body a:visited {
 	margin-top:10px;
 	margin-botton:10px;
 }
+.lightYellow2{
+	padding:15px;
+	background:#ffe88c;
+	color:#000000;
+	margin-top:10px;
+	margin-botton:10px;
+}
 .dark{
 	padding:15px;
 	background:#FFCC00;
@@ -113,6 +120,18 @@ body a:visited {
 
 .lightYellow a:active {
   color:#FF00CB;
+}
+
+.lightYellow2 a:link {
+  color: #000000;
+}
+
+.lightYellow2 a:visted {
+  color: #000000;
+}
+
+.lightYellow2 a:active {
+color: #FF00CB
 }
 
 /* Header **/
