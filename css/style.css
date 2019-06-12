@@ -217,9 +217,17 @@ header a:active{
 	min-height:300px;
 	background:url('../images/BSHSbackgrounf.png') no-repeat;
 	text-align:center;
-	vertical-align:middle;
+	position: relative;
 	color:#ffffff;
 	
+}
+
+#showcase .vertical-center {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
 }
 
 #showcase h1{
