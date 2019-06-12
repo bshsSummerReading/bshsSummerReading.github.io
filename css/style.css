@@ -214,9 +214,10 @@ header a:active{
 
 /* Showcase */
 #showcase{
-	min-height:100px;
+	min-height:250px;
 	background:url('../images/BSHSbackgrounf.png') no-repeat;
 	text-align:center;
+	vertical-align:middle;
 	color:#ffffff;
 	
 }
